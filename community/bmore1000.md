@@ -1,4 +1,4 @@
-<a href="https://copilot.microsoft.com/" target="_blank"><img src="./imgs/bannercopilot.png" title="Imagem criada por IA - COPILOT" /></a>
+<a href="https://copilot.microsoft.com/" target="_blank"><img src="https://github.com/bmore1000/bmore1000/blob/main/imgs/bannercopilot.png" title="Imagem criada por IA - COPILOT" /></a>
 <p align="center"><img width="160" src="https://komarev.com/ghpvc/?username=bmore1000&color=0077B5"></p>
 <h1 align="center"><b>Perfil GitHub.</b></h1>
 <h1 align="center">👾 Quem sou eu?</h1>
@@ -14,11 +14,11 @@
         <h1 align="center"><b> 🎓 Formação acadêmica.</b></h1>
         <h1>Graduação pelo Instituto de Estudos Superiores da Amazônia - IESAM.</h1>
         
-  <a href="https://estacio.br/" target="_blank"><img margin=10 width=200 src="./imgs/iesam.png" title="IESAM" /></a>
-<p><h1>Tecnologia em Redes de Computadores.</h1><img margin=10 width=70 src="./imgs/redes.png" title="Redes" /></p>
+  <a href="https://estacio.br/" target="_blank"><img margin=10 width=200 src="https://github.com/bmore1000/bmore1000/blob/main/imgs/iesam.png" title="IESAM" /></a>
+<p><h1>Tecnologia em Redes de Computadores.</h1><img margin=10 width=70 src="https://github.com/bmore1000/bmore1000/blob/main/imgs/redes.png" title="Redes" /></p>
   <h1> Pós Graduação pela Faculdade Iguaçú.</h1>
-  <a href="https://faculdadeiguacu.edu.br/" target="_blank"><img margin=10 width=200 src="./imgs/iguacu.png" title="IGUAÇÚ" /></a>
-  <p><h1>User Experience (UX) e User Interface (UI).</h1><img margin=10 width=70 src="./imgs/ux-ui.png" title="UX - UI" /></p>
+  <a href="https://faculdadeiguacu.edu.br/" target="_blank"><img margin=10 width=200 src="https://github.com/bmore1000/bmore1000/blob/main/imgs/iguacu.png" title="IGUAÇÚ" /></a>
+  <p><h1>User Experience (UX) e User Interface (UI).</h1><img margin=10 width=70 src="https://github.com/bmore1000/bmore1000/blob/main/imgs/ux-ui.png" title="UX - UI" /></p>
 <div align="center">
     <br clear="both">
 <div align="center">
